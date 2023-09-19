@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/product-service-spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/ticket-service-spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/price-service-spring-cloud/pom.xml" />
+        <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
       </list>
     </option>
   </component>
