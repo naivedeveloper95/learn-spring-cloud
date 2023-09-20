@@ -9,10 +9,16 @@
         <option value="$PROJECT_DIR$/ticket-service-spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/price-service-spring-cloud/pom.xml" />
         <option value="$PROJECT_DIR$/EurekaServer/pom.xml" />
+        <option value="$PROJECT_DIR$/apigatewayservice/pom.xml" />
+        <option value="$PROJECT_DIR$/couponservice/pom.xml" />
+        <option value="$PROJECT_DIR$/productservice/pom.xml" />
+        <option value="$PROJECT_DIR$/ZuulProxy/pom.xml" />
+        <option value="$PROJECT_DIR$/ticketservice/pom.xml" />
+        <option value="$PROJECT_DIR$/priceservice/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
