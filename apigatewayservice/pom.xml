@@ -9,7 +9,7 @@
 		<version>2.5.4</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.bharath.springcloud</groupId>
+	<groupId>com.satyam</groupId>
 	<artifactId>apigatewayservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>apigatewayservice</name>
