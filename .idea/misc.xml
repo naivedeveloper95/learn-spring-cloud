@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/ZuulProxy/pom.xml" />
         <option value="$PROJECT_DIR$/ticketservice/pom.xml" />
         <option value="$PROJECT_DIR$/priceservice/pom.xml" />
+        <option value="$PROJECT_DIR$/ConfigServer/pom.xml" />
       </list>
     </option>
   </component>

@@ -12,11 +12,13 @@
         <module name="EurekaServer (1)" />
         <module name="ZuulProxy" />
         <module name="productservice" />
+        <module name="ConfigServer" />
         <module name="priceservice" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="coupon-service-spring-cloud" target="1.8" />
+      <module name="couponservice" target="1.8" />
       <module name="EurekaServer" target="1.8" />
       <module name="price-service-spring-cloud" target="1.8" />
       <module name="product-service-spring-cloud" target="1.8" />
@@ -25,6 +27,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ConfigServer" options="-parameters" />
       <module name="EurekaServer" options="-parameters" />
       <module name="EurekaServer (1)" options="-parameters" />
       <module name="EurekaServer (2)" options="-parameters" />
@@ -32,11 +35,11 @@
       <module name="apigatewayservice" options="-parameters" />
       <module name="coupon-service-spring-cloud" options="-parameters" />
       <module name="price-service-spring-cloud" options="-parameters" />
-      <module name="priceservice" options="-parameters" />
+      <module name="priceservice" options="" />
       <module name="product-service-spring-cloud" options="-parameters" />
       <module name="productservice" options="-parameters" />
       <module name="ticket-service-spring-cloud" options="-parameters" />
-      <module name="ticketservice" options="-parameters" />
+      <module name="ticketservice" options="" />
     </option>
   </component>
 </project>
